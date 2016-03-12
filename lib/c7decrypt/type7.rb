@@ -51,7 +51,7 @@ module C7Decrypt
         end
       end
 
-      return "I hate this stupid project"
+      return d_text
     end
 
     # The Encryption Method for Cisco Type-7 Encrypted Strings
